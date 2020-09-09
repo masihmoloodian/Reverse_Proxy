@@ -1,7 +1,8 @@
 # Reverse_Proxy
 simple reverse proxy. Round Robin LoadBalancing included
 
-1- Set server.go ,server_2.go, reverse.go ADDRESS (ip:port)
+1- Set server.go, reverse.go ADDRESS (ip:port)
+-to use loadbalancing build 2 or more serve
 
 2- Build source code
 ```
